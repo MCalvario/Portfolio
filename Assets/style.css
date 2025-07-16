@@ -1,13 +1,16 @@
-/*This is the background effects for the whole page*/
+/*This is the background effects for the whole page
 body {
-    background-color:rgb(199, 204, 206);
-}
+   background-color:rgb(199, 204, 206);
+}*/
+
 a {
-    color: rgb(203, 195, 195);
-    padding:5px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+   /* color: rgb(203, 195, 195);*/
+   color: white;
+   text-decoration: none;
+   padding: 10px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 /*This is my header with link effects and colors*/
 a:hover { color: rgb(255, 0, 106); }
 .header {
