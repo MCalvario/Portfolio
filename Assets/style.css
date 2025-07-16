@@ -22,15 +22,16 @@ a:hover { color: rgb(255, 0, 106); }
     color: #ffffff;
     /*border-radius: 20px 20px 20px 20px;*/
     font-style: italic;
+    font-size: 20px;
 }
-/*hero banner effects*/
+/*hero banner effects
 .hero {
     height: 400px;
     width: 100%;
     border-radius: 20px 20px 20px 20px;
     font-style: italic;
-}
-/*hero title positionion and font effects*/
+}*/
+/*hero title positionion and font effects
 #HeroTitle { position:right;
     text-align: right;
     text-shadow: 25px 25px 6px;
@@ -38,7 +39,7 @@ a:hover { color: rgb(255, 0, 106); }
     letter-spacing: 6px;
     padding: 40px 40px;
     line-height: 1.5;
-}
+}*/
 
 /*.me {
 }
@@ -46,8 +47,6 @@ a:hover { color: rgb(255, 0, 106); }
 .me:hover {
     box-shadow: 0 0 20px 5px #3a4449;
   }*/
-
-
 
 .container {
     display: grid;
@@ -79,23 +78,24 @@ a:hover { color: rgb(255, 0, 106); }
     font-size: 35px;
     font-style: italic;
     padding: 0px 10px 10px 0px;
+    color: white;
 }
 
-/*I used these images for my projects coming soon*/
+/*I used these images for my projects coming soon
 .placeholder {
     height: 200px;
     cursor: pointer;
-}
+}*/
 
 img {
-    width: 350px;
+    width: 1150px;
     height: auto;
-    border-radius: 20px 20px 20px 20px;
+    /*border-radius: 20px 20px 20px 20px;*/
     }
 
-fieldset.inline {
+/*fieldset.inline {
     display: inline;
-            }
+            }*/
 
 /*This is the coding I used to achieve the look I wanted for my footer*/
 .footer {
@@ -103,9 +103,9 @@ fieldset.inline {
     justify-content: space-between;
     padding: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #3a4449;
+    /*background-color: #3a4449;*/
     color: #ffffff;
-    border-radius: 20px 20px 20px 20px;
+   /* border-radius: 20px 20px 20px 20px;*/
     font-style: italic;
     font-size: 20px;
 }
