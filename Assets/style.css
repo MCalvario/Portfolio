@@ -118,8 +118,54 @@ img {
     color: black;
   }
 
-  #fieldset1 {
+  #fieldset1{
     border-style: none;
     padding: 20px 20px;
     margin: 20px 20px;
+    font-size: 20px;;
   }
+  
+  #firstName {
+    margin: 0px 40px;
+    font-size: 20px;
+  }
+  #email {
+    margin: 10px 40px;
+    font-size: 20px;
+  }
+  
+  #subject {
+    margin: 30px 35px;
+    font-size: 20px;
+    
+  }
+
+   #message {
+    margin: 0px 0px;
+    font-size: 20px;
+  }
+
+  textarea {
+    padding: 2%;
+    margin: 5px 10px;
+    font-size: 20px;
+  }
+
+  button {
+    background-color: black;
+    color: rgb(121, 146, 137);
+    font-size: 20px;
+    font-style: bold italic;
+    padding: 10px 20px;
+    border: solid 2px rgb(121, 146, 137);
+  }
+
+  #p2 {
+    font-size: 20px;;
+  }
+
+  p{
+    text-align: center;
+  }
+
+  button:hover { color: rgb(255, 0, 106);}
